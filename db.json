@@ -1,0 +1,43 @@
+{
+  "conta": {
+    "saldo": 1000
+  },
+  "transacoes": [
+    {
+      "valor": 10,
+      "transacao": "saque",
+      "data": "10/08/2020",
+      "id": 1
+    },
+    {
+      "transacao": "deposito",
+      "valor": "20",
+      "data": "26/09/2020",
+      "id": 2
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "31/03/2021",
+      "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "31/03/2021",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "31/03/2021",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "31/03/2021",
+      "id": 6
+    }
+  ]
+}
